@@ -7,7 +7,7 @@ Your Logo/Icon:
 
 ![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Logo")
 
-# Final-Project-21SP-Student
+# Project Name (Stylized)
 Final Project Prototype
 ## Students Name README Template
 
