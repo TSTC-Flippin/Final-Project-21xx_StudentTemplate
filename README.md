@@ -8,12 +8,12 @@ Your Logo/Icon:
 ![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Logo")
 
 # Project Name (Stylized)
-Final Project Prototype
+Very brief and to the poing project description (one sentance preferred)
 ## Students Name README Template
 
 Clear semi-detailed description of your project.
 
-### Project Name/Intro
+### Project Introduction
 
 - Describe very briefly but clearly what the project does.
 - State if it is out-of-the-box user-friendly, so it’s clear to the user.
