@@ -8,11 +8,11 @@ Your Logo/Icon:
 ![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Logo")
 
 # Project Name (Stylized)
-Very brief and to the poing project description (one sentance preferred)
+Very brief and to the point project description (one sentance preferred)
 
 ## Detailed Description
 
-Clear semi-detailed description of your project. (about a paragraph or slightly more)
+Clear semi-detailed professional description of your project. (about a paragraph or slightly more)
 
 ### Project Introduction
 
