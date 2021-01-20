@@ -9,9 +9,10 @@ Your Logo/Icon:
 
 # Project Name (Stylized)
 Very brief and to the poing project description (one sentance preferred)
-## Students Name README Template
 
-Clear semi-detailed description of your project.
+## Detailed Description
+
+Clear semi-detailed description of your project. (about a paragraph or slightly more)
 
 ### Project Introduction
 
