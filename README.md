@@ -76,6 +76,8 @@ Include any essential instructions for:
 ### License
 Indicate your license/License model, etc.
 
+(also, review the video: https://youtu.be/MEvFzUwK600)
+
 [The three major licenses used are:  
 Apache License v2.0
 GNU General Public License v3.0
