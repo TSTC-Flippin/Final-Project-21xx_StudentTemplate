@@ -77,6 +77,7 @@ Include any essential instructions for:
 Indicate your license/License model, etc.
 
 (also, review the Instructions for adding a license file:
+
 https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)
 
 The three major licenses used are (Choose one):  
