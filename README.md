@@ -79,7 +79,8 @@ Indicate your license/License model, etc.
 (also, review the Instructions for adding a license file:
 https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)
 
-[The three major licenses used are:  
+The three major licenses used are (Choose one):  
+
 Apache License v2.0
 
 GNU General Public License v3.0
