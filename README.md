@@ -81,7 +81,9 @@ https://docs.github.com/en/github/building-a-strong-community/adding-a-license-t
 
 [The three major licenses used are:  
 Apache License v2.0
+
 GNU General Public License v3.0
+
 MIT License]
 
 [Choose the one you want to use and include it here)
