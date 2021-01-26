@@ -76,7 +76,8 @@ Include any essential instructions for:
 ### License
 Indicate your license/License model, etc.
 
-(also, review the video: https://youtu.be/MEvFzUwK600)
+(also, review the Instructions for adding a license file:
+https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)
 
 [The three major licenses used are:  
 Apache License v2.0
