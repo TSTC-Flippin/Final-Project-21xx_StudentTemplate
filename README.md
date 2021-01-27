@@ -69,10 +69,10 @@ Include any essential instructions for:
 - Known bugs (shortlist)
 
 ### Contact
-Your Name
-Email address
-Social Media Links (if applicable)
-Google Group/mailing list (if applicable)
+####Your Name
+####Email address
+####Social Media Links (if applicable)
+####Google Group/mailing list (if applicable)
 
 ### License
 Indicate your license/License model, etc.
