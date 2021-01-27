@@ -70,9 +70,13 @@ Include any essential instructions for:
 
 ### Contact
 Your Name
+
 Email address
+
 Social Media Links (if applicable)
+
 Google Group/mailing list (if applicable)
+
 
 ### License
 Indicate your license/License model, etc.
