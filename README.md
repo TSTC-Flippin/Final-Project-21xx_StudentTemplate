@@ -70,13 +70,9 @@ Include any essential instructions for:
 
 ### Contact
 Your Name
-
 Email address
-
 Social Media Links (if applicable)
-
 Google Group/mailing list (if applicable)
-
 
 ### License
 Indicate your license/License model, etc.
@@ -94,3 +90,5 @@ GNU General Public License v3.0
 MIT License]
 
 [Choose the one you want to use, create your license file in your repo and include description and link to it here)
+
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
