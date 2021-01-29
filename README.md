@@ -27,11 +27,15 @@ Clear semi-detailed professional description of your project. (about a paragraph
 
 ### Development Environment
 
-- Langauge:
-- Development Environment: Visual Studio 2019 Community Edition
-- SQL Server Type: 
-- Help System: 
-- Reports Methods: 
+Type | Description
+-----|-------------
+Language | C#
+Development Environment | Visual Studio 2019 Community Edition
+SQL Server Type | MS SQL or MySQL (whichever you used)
+Target Environment | Windows 10 Desktop
+Target Audience | Whatever your target audiance is
+Help System | describe
+Reports Methods | HTML Reports
 
 ### Core Technical Concepts/Inspiration
 
