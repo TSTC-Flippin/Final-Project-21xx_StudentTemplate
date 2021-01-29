@@ -33,8 +33,8 @@ Language | C#
 Development Environment | Visual Studio 2019 Community Edition
 SQL Server Type | MS SQL or MySQL (whichever you used)
 Target Environment | Windows 10 Desktop
-Target Audience | Whatever your target audiance is
-Help System | describe
+Target Audience | Whatever your target audience is
+Help System | Describe
 Report Methods | HTML Reports
 
 ### Core Technical Concepts/Inspiration
@@ -77,9 +77,9 @@ Include any essential instructions for:
 Contact | Information
 --------|------
 Name | Your Name
-Email | Your Emial Address
+Email | Your Email Address
 Social Media Link | Your Social Media link(s) (if applicable)
-Google Group/mailing list | Your mail distriction list (if applicable)
+Google Group/mailing list | Your mail distribution list (if applicable)
 
 ### License
 Indicate your license/License model, etc.
@@ -94,7 +94,7 @@ Apache License v2.0
 
 GNU General Public License v3.0
 
-MIT License]
+MIT License
 
 [Choose the one you want to use, create your license file in your repo and include description and link to it here)
 
