@@ -70,12 +70,12 @@ Include any essential instructions for:
 
 ### Contact
 
-```
-Your Name
-Email address
-Social Media Links (if applicable)
-Google Group/mailing list (if applicable)
-```
+Contact | Information
+--------|------
+Name | Your Name
+Email | Your Emial Address
+Social Media Link | Your Social Media link(s) (if applicable)
+Google Group/mailing list | Your mail distriction list (if applicable)
 
 ### License
 Indicate your license/License model, etc.
