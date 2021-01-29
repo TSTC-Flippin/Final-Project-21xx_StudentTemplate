@@ -35,7 +35,7 @@ SQL Server Type | MS SQL or MySQL (whichever you used)
 Target Environment | Windows 10 Desktop
 Target Audience | Whatever your target audiance is
 Help System | describe
-Reports Methods | HTML Reports
+Report Methods | HTML Reports
 
 ### Core Technical Concepts/Inspiration
 
