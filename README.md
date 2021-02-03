@@ -14,7 +14,7 @@ Very brief and to the point project description (one sentance preferred)
 
 Clear semi-detailed professional description of your project. (about a paragraph or slightly more)
 
-### Project Introduction
+### Project Introduction  
 
 - Describe very briefly but clearly what the project does.
 - State if it is out-of-the-box user-friendly, so it’s clear to the user.
