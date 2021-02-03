@@ -5,7 +5,7 @@ https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061
 
 Your Project Logo/Icon: 
 
-![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Logo")
+![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Octocat Logo")
 
 # Project Name (Stylized)
 Very brief and to the point project description (one sentance preferred)
