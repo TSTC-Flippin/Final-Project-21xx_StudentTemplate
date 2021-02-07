@@ -95,7 +95,6 @@ Apache License v2.0
 GNU General Public License v3.0
 
 MIT License
-
-[Choose the one you want to use, create your license file in your repo and include description and link to it here)
+[For the Final Project course, we will use the GNU General Public License v3.0]
 
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
