@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SP21_Final_Project
+namespace SU21_Final_Project
 {
     public partial class frmMain : Form
     {

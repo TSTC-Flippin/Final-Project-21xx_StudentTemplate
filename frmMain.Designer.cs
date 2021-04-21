@@ -1,5 +1,5 @@
 ﻿
-namespace SP21_Final_Project
+namespace SU21_Final_Project
 {
     partial class frmMain
     {
@@ -37,7 +37,9 @@ namespace SP21_Final_Project
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "frmMain";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Tag = "2021.04.21";
+            this.Text = "{Your Project Name Goes Here}";
             this.Load += new System.EventHandler(this.frmMain_Load);
             this.ResumeLayout(false);
 
