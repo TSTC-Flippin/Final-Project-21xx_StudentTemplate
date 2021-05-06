@@ -1,4 +1,5 @@
-﻿//*******************************************
+﻿//ToDo: Change the entries below indicated by {} to your values
+//*******************************************
 //*******************************************
 // Programmer: {Your name goes here}
 // Course: INEW 2332.{xxxx} (Final Project)
