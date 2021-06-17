@@ -9,7 +9,7 @@ Your Project Logo/Icon:
 
 ![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Pet Octocat Logo")
 
-# Project Name (Stylized) [Must Update]
+# Project Name [Must Update]
 Very brief and to the point project description (one sentance preferred)
 
 ## Detailed Description [Must Update]
