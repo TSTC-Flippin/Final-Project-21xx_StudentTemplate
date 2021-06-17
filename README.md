@@ -11,7 +11,7 @@ Readme.md Version# 2021.06.17
 
 [Your Project Logo/Icon:]
 
-![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Pet Octocat Logo")
+![Alternate 'text' description for the image](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Pet Octocat Logo")
 
 # Project Name [Must Update]
 [Very brief and to the point project description (one sentance preferred)]
@@ -36,7 +36,7 @@ Type | Description
 -----|-------------
 Language | C#
 Development Environment | Visual Studio 2019 Community Edition
-SQL Server Type/Dialect | Microsoft SQL
+SQL Server Type/Dialect | Microsoft SQL (TSTC Server)
 Target Environment | Windows 10 Desktop
 Target Business/Industry | [Whatever your target Business/Industry is]
 Help System | [Describe method used for context sensitive help]
