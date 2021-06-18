@@ -1,5 +1,6 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
+// TSTS Version Number: 2021.06.18
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information

@@ -59,5 +59,14 @@ namespace SU21_Final_Project.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 2021.06.18.
+        /// </summary>
+        internal static string TSTCVersionNumber {
+            get {
+                return ResourceManager.GetString("TSTCVersionNumber", resourceCulture);
+            }
+        }
     }
 }
